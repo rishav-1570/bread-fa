@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bread-fa/static/css/main.ab2fb1f1.chunk.css",
+    "main.js": "/bread-fa/static/js/main.755b8731.chunk.js",
+    "main.js.map": "/bread-fa/static/js/main.755b8731.chunk.js.map",
+    "runtime-main.js": "/bread-fa/static/js/runtime-main.cb97f235.js",
+    "runtime-main.js.map": "/bread-fa/static/js/runtime-main.cb97f235.js.map",
+    "static/js/2.ee55dbec.chunk.js": "/bread-fa/static/js/2.ee55dbec.chunk.js",
+    "static/js/2.ee55dbec.chunk.js.map": "/bread-fa/static/js/2.ee55dbec.chunk.js.map",
+    "index.html": "/bread-fa/index.html",
+    "static/css/main.ab2fb1f1.chunk.css.map": "/bread-fa/static/css/main.ab2fb1f1.chunk.css.map",
+    "static/js/2.ee55dbec.chunk.js.LICENSE.txt": "/bread-fa/static/js/2.ee55dbec.chunk.js.LICENSE.txt",
+    "static/media/cosmos.dd011b82.jpg": "/bread-fa/static/media/cosmos.dd011b82.jpg",
+    "static/media/escalator.1bd73eff.jpg": "/bread-fa/static/media/escalator.1bd73eff.jpg",
+    "static/media/music.5441bb34.jpg": "/bread-fa/static/media/music.5441bb34.jpg",
+    "static/media/picture.fe2b90e4.jpg": "/bread-fa/static/media/picture.fe2b90e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb97f235.js",
+    "static/js/2.ee55dbec.chunk.js",
+    "static/css/main.ab2fb1f1.chunk.css",
+    "static/js/main.755b8731.chunk.js"
+  ]
+}
