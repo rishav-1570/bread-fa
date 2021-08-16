@@ -1,0 +1,85 @@
+
+
+#myquote {
+    padding-top: 20px;
+    height: 250px;
+}
+
+#myquote span {
+    font-size: 40px;
+    width: 300px;
+    font-weight: 600;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#myprofile .card {
+    margin-top: -50px;
+    box-shadow: 0px 0px 0px 0.5px #fff;
+    background-color: #fff;
+}
+
+#myprofile .card .card-header#header-1 {
+    
+    display:flex;
+    justify-content: space-between;
+    border-bottom: none;
+    background-color: #fff;
+}
+
+#myprofile .pillss
+{
+    max-width: 150px;
+    
+}
+
+#myprofile .pillss span {
+    font-weight: 200;
+}
+
+
+
+#myprofile .card .card-header#header-2 .card-title {
+    font-weight: 600;
+    font-size: 35px;
+}
+
+#myprofile .card .card-header#header-2 {
+    max-width: 550px;
+    border-bottom: none;
+    background-color: #fff;
+}
+
+#myprofile .card .card-body .video-comp .vid-title{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+#myprofile .card .card-body .video-comp a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#myprofile .card .card-body form {
+    padding: 10px 5px 10px 5px;
+    border: .5px solid black;
+    border-radius: 7px;
+}
+
+#sliderid #sliderhead {
+    margin-top: 80px;
+}
+
+#allfoot {
+    margin-top: -60px;
+}
+
+#sliderid #carouselbtn i:hover {
+    cursor: pointer;
+
+}
+
+#bottomid #bottomleft i:hover {
+    cursor: pointer;
+}
